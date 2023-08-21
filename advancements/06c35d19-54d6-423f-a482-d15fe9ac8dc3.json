@@ -1125,15 +1125,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_rabbit": {
-    "criteria": {
-      "has_rabbit": "2023-08-21 21:21:26 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2023-08-21 21:18:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-08-21 21:18:38 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2023-08-21 21:21:26 +0900"
     },
     "done": true
   },
@@ -1149,9 +1155,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:end/elytra": {
     "criteria": {
-      "has_iron_block": "2023-08-21 21:18:38 +0900"
+      "elytra": "2023-08-21 22:24:15 +0900"
     },
     "done": true
   },
